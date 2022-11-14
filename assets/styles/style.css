@@ -1,0 +1,54 @@
+@import './fonts.css';
+
+/* BASE CONFIG */
+* {
+	padding: 0;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Rubik';
+    color: #616161;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+button {
+	background: none;
+	border: none;
+}
+/* BASE CONFIG */
+.container {
+    max-width: 1057px;  
+}
+.header {  
+}
+.header__container {
+    display: flex;
+    height: 114px;
+    align-items: center;
+}
+.header__logo {
+    align-items: center;
+}
+.header__menu {
+    display: flex;
+   
+}
+.menu {
+}
+.menu__list {
+    display: flex;
+    list-style-type: none;
+}
+.menu__item {
+}
+.menu__link {
+}
+.header__button {
+}
+.button {
+}
+.button__blue {
+}

@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-ExtraBold.eot');
+    src: url('../fonts/Raleway-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Raleway-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Raleway-ExtraBold.woff') format('woff'),
+        url('../fonts/Raleway-ExtraBold.ttf') format('truetype'),
+        url('../fonts/Raleway-ExtraBold.svg#Raleway-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Bold.eot');
+    src: url('../fonts/Raleway-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Raleway-Bold.woff2') format('woff2'),
+        url('../fonts/Raleway-Bold.woff') format('woff'),
+        url('../fonts/Raleway-Bold.ttf') format('truetype'),
+        url('../fonts/Raleway-Bold.svg#Raleway-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('../fonts/Rubik-Bold.eot');
+    src: url('../fonts/Rubik-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Rubik-Bold.woff2') format('woff2'),
+        url('../fonts/Rubik-Bold.woff') format('woff'),
+        url('../fonts/Rubik-Bold.ttf') format('truetype'),
+        url('../fonts/Rubik-Bold.svg#Rubik-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('../fonts/Rubik-Regular.eot');
+    src: url('../fonts/Rubik-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Rubik-Regular.woff2') format('woff2'),
+        url('../fonts/Rubik-Regular.woff') format('woff'),
+        url('../fonts/Rubik-Regular.ttf') format('truetype'),
+        url('../fonts/Rubik-Regular.svg#Rubik-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
